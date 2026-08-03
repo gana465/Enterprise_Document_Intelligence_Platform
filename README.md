@@ -91,28 +91,6 @@ Enterprise_Document_Intelligence_Platform/
 
 ---
 
-# ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Enterprise-Document-Intelligence-Platform.git
-cd Enterprise-Document-Intelligence-Platform
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
----
 
 # 🔄 Workflow
 
@@ -166,15 +144,3 @@ Add screenshots of the following pages:
 * Microsoft SharePoint Integration
 
 ---
-
-# 👨‍💻 Author
-
-**Baddula Venkata Sai Ganapathi Naidu**
-
-B.Tech – CSE (Artificial Intelligence & Machine Learning)
-
----
-
-# 📄 License
-
-This project is developed for academic and educational purposes.
